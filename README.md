@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Connect With Me - Modern Profile Page
 
 A beautiful, modern, and minimal "Connect With Me" page featuring glassmorphism design, smooth animations, and responsive layout.
@@ -158,3 +159,7 @@ To deploy this page:
 ---
 
 **Enjoy your new Connect With Me page! 🌟**
+=======
+# Connect_with_me
+A clean, minimal, and responsive "Connect With Me" page featuring a central Connect button that opens a modal with all social links, and a one-click resume download option.
+>>>>>>> ab58b36350ee4f169f37576f66541df014efe034
