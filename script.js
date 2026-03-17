@@ -35,7 +35,7 @@ downloadBtn.addEventListener('click', () => {
     try {
         // Create a temporary download link
         const link = document.createElement('a');
-        link.href = './Asads_Resume (1).pdf'; // Use relative path to the resume file
+        link.href = './asad latest.pdf'; // Use relative path to the resume file
         link.download = 'Asad_Resume.pdf';
         link.target = '_blank'; // Open in new tab as backup
         
