@@ -53,7 +53,7 @@ downloadBtn.addEventListener('click', () => {
         // Show success notification
         showNotification('📄 Resume download started!');
         
-        console.log('Resume download attempted: ./Asads_Resume (1).pdf');
+        console.log('Resume download attempted: ./asad latest.pdf.pdf');
         
     } catch (error) {
         console.error('Download error:', error);
